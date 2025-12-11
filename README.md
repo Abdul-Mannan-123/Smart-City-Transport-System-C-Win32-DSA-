@@ -50,7 +50,9 @@ g++ DSAProject.cpp -o output.exe -std=c++11 -luser32 -lgdi32
 
 ## CONTRIBUTORS:
 -Abdul Mannan
+
 -Daniyal Tejani
+
 -Bazil uddin
 
 ## CREDITS:
