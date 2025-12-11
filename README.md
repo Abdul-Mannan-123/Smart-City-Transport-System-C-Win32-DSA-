@@ -1,9 +1,5 @@
 ![smartCity-banner](https://dummyimage.com/1200x280/0a3d62/ffffff&text=Smart+City+Transport+System)
 
-<div style="width:100%; padding:20px; background:#4A148C; color:white; text-align:center; font-size:32px; font-weight:bold; border-radius:8px;">
-    Smart City Transport System (C++ · Win32 · DSA)
-</div>
-
 ![Language Badge](https://img.shields.io/badge/Language-C++11-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Platform Badge](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![GUI Badge](https://img.shields.io/badge/GUI-Win32_API-1490D7?style=for-the-badge)
