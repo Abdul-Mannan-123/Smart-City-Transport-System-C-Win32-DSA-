@@ -1,4 +1,4 @@
-<!-- COLORED HEADING (WILL RENDER ONLY ON GITHUB, NOT HERE) -->
+
 <div style="width:100%; padding:20px; background:#4A148C; color:white; text-align:center; font-size:32px; font-weight:bold; border-radius:8px;">
     Smart City Transport System (C++ · Win32 · DSA)
 </div>
