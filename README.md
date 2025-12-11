@@ -49,9 +49,9 @@ g++ DSAProject.cpp -o output.exe -std=c++11 -luser32 -lgdi32
 - GUI events tested
 
 ## CONTRIBUTORS:
-Abdul Mannan
-Daniyal Tejani
-Bazil uddin
+-Abdul Mannan
+-Daniyal Tejani
+-Bazil uddin
 
 ## CREDITS:
 Created for DSA course demonstrating OOP + Graphs + BST + GUI programming.
