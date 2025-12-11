@@ -1,28 +1,37 @@
-# Smart City Transport System (C++ · Win32 · DSA)
+<!-- ========================= -->
+<!-- COLORED BANNER HEADING   -->
+<!-- ========================= -->
 
-![Language Badge](https://img.shields.io/badge/Language-C++11-00599C?style=for-the-badge&logo=c%2B%2B)
-![Platform Badge](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![GUI Badge](https://img.shields.io/badge/GUI-Win32_API-1490D7?style=for-the-badge)
-![Algorithm Badge](https://img.shields.io/badge/Algorithms-BST%20%7C%20Graph%20%7C%20Dijkstra-green?style=for-the-badge)
-![Build Badge](https://img.shields.io/badge/Build-g%2B%2B%20(MinGW)-F7DF1E?style=for-the-badge)
+<div style="width:100%; padding:20px; background:#4B0082; color:white; text-align:center; font-size:32px; font-weight:bold; border-radius:10px;">
+    Smart City Transport System (C++ · Win32 · DSA)
+</div>
+
+<!-- BADGES -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-C++11-00599C?style=for-the-badge&logo=c%2B%2B">
+    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows">
+    <img src="https://img.shields.io/badge/GUI-Win32_API-1490D7?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Algorithms-BST%20%7C%20Graph%20%7C%20Dijkstra-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Build-g%2B%2B%20(MinGW)-F7DF1E?style=for-the-badge">
+</p>
 
 ## Description
-A Smart City Transport System implemented in C++ with a Win32 GUI.
-Includes route scheduling using BST, adjacency-matrix graph, and Dijkstra pathfinding.
+A Smart City Transport System implemented in C++ with a Win32 GUI.  
+Features BST route schedules, adjacency matrix graph, and Dijkstra shortest/cheapest routing.
 
 ## Features
 - Route & schedule management  
-- Graph-based city map  
-- Shortest & cheapest path  
-- Full Win32 GUI  
+- City graph with time and cost  
+- Dijkstra shortest/cheapest path  
+- Full desktop GUI  
 
 ## Tech Stack
 - C++11  
 - Win32 API  
-- Graph, BST, MinHeap, Dijkstra  
+- Graph · BST · MinHeap · Dijkstra  
 - MinGW g++  
 
-## Project Structure 
+## Project Structure
 SmartCity/
     Win32 UI/
         Buttons & Edit Controls
@@ -37,26 +46,11 @@ SmartCity/
     Main/
         SmartCityTransportSystem Controller
 
-
-## Build & Run 
-g++ DSAProject.cpp -o output.exe -std=c++11 -luser32 -lgdi32
+## Build & Run
+g++ DSAProject.cpp -o output.exe -std=c++11 -luser32 -lgdi32  
 ./output.exe
 
-
-## Testing 
-- BST operations validated  
-- Graph edges verified  
-- Dijkstra tested  
-- GUI inputs tested  
-- Error handling tested  
-
 ## Contributors
-Abdul Mannan  
-Daniyal Tejani 
+Abdul Mannan
+Daniyal Tejani
 Bazil uddin Khan
-
-## Credits
-Created for DSA course demonstrating OOP + Graphs + BST + GUI programming.
-
-## License
-Academic and educational use.
