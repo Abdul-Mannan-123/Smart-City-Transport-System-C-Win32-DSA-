@@ -1,4 +1,4 @@
-![smartCity-banner](https://dummyimage.com/1200x280/0a3d62/ffffff&text=Smart+City+Transport+System+(C++)+Win32-DSA)
+![smartCity-banner](https://dummyimage.com/1200x280/0a3d62/ffffff&text=Smart+City+Transport+System+C"++"+Win32-DSA)
 
 ![Language Badge](https://img.shields.io/badge/Language-C++11-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Platform Badge](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
