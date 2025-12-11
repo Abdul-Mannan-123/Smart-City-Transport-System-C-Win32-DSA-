@@ -22,7 +22,7 @@ Includes route scheduling using BST, adjacency-matrix graph, and Dijkstra pathfi
 - Graph, BST, MinHeap, Dijkstra  
 - MinGW g++  
 
-## Project Structure (TEXT ONLY — NO MARKDOWN)
+## Project Structure 
 SmartCity/
     Win32 UI/
         Buttons & Edit Controls
@@ -38,18 +38,12 @@ SmartCity/
         SmartCityTransportSystem Controller
 
 
-## Build & Run (SHOWN AS TEXT, NOT A CODE BLOCK)
+## Build & Run 
 g++ DSAProject.cpp -o output.exe -std=c++11 -luser32 -lgdi32
 ./output.exe
 
 
-## Screenshots (optional)
-- Main Window  
-- Adjacency Matrix  
-- Route Details  
-- Shortest Path Output  
-
-## Testing (TEXT ONLY)
+## Testing 
 - BST operations validated  
 - Graph edges verified  
 - Dijkstra tested  
